@@ -5,5 +5,7 @@ print('Now I need money')
 # print("here is you money ",money)
 firstMoney= input('kodom ali: ')
 secondMoney = input('bappa raj: ')
-sum=type(firstMoney)+secondMoney
+firstMoney_int=int(firstMoney)
+secondMoney_int=int(secondMoney)
+sum=firstMoney_int+secondMoney_int
 print(sum)
