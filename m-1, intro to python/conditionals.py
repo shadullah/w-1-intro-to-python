@@ -1,3 +1,7 @@
+# in , not, not in , is , is not
+# >, <, >= ,<=, ==, !==
+
+
 a=4
 boss=False
 if a>5:
