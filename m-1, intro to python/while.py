@@ -15,6 +15,11 @@ while num<=10:
     num=num+1
     if num%2==1: 
         continue
-    print(num)
+    # print(num)
     
+
+i = 0
+while i < 5:
+    print(i)
+    i+=1
 
