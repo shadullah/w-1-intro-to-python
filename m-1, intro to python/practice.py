@@ -15,7 +15,7 @@ elif int(second) > int(first) and int(second)> int(third):
 else:
     print(third)
 
-# 4
-# run a loop and show the odd numbers between 39 to 68
+# 4. run a loop and show the odd numbers between 39 to 68
+
 
 
