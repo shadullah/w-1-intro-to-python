@@ -13,27 +13,19 @@ int main()
     {
         int n;
         cin >> n;
-
-        vector<int> a(n);
+        int a[n];
+        int b[n];
         for (int i = 0; i < n; i++)
         {
             cin >> a[i];
         }
-
-        // Sort the input array in ascending order
-        // sort(a.begin(), a.end());
-
-        // Find the minimum value of bn by iterating from 1 to n
-        int min_bn = 1;
+        int b = 1;
         for (int i = 0; i < n; i++)
         {
-            if (a[i] > min_bn)
-            {
-                min_bn = a[i] + 1;
-            }
+            if (a[0] == 1 && b == 1)
+                continue;
+            else if (a[])
         }
-
-        cout << min_bn << endl;
     }
 
     return 0;
