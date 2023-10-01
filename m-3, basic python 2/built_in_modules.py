@@ -11,3 +11,4 @@ print(randint(1,100))
 from time import *
 sleep(4)
 print(choice(['sakib', 'mash', 'mush']))
+
